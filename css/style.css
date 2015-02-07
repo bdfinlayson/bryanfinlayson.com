@@ -2,7 +2,15 @@
 a {
 
   color: tomato;
+  text-decoration: none;
 
+
+}
+
+
+p {
+
+  line-height: 2em;
 
 }
 
