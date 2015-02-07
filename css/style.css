@@ -3,22 +3,22 @@
 @charset "UTF-8";
 /* CSS Document */
 
-/* PAGE STYLES 
+/* PAGE STYLES
 ============================ */
 
-h1 { 
+h1 {
     margin: 0; /* TO MAKE THE WHITESPACE AT THE TOP OF THE PAGE GO AWAY */
 }
 
 p {
-	padding: 0 15% 0 15%; /* TO GIVE THE CONTENT A LITTLE BREATHING ROOM */
-	line-height: 2em;
+  padding: 0 15% 0 15%; /* TO GIVE THE CONTENT A LITTLE BREATHING ROOM */
+  line-height: 2em;
 }
 
 a {
-	color: red;
-	text-decoration: none;
-	font-weight: bold;
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 
@@ -26,8 +26,8 @@ a {
 ===============================*/
 
 html { background-color: white; } /* I'M GIVING EACH CONTAINER CLASS A COLOR TO HELP ME VISUALIZE THE CONTAINER */
-.main-wrapper { background-color: white; } 
-.main-header { background-color: white; } 
+.main-wrapper { background-color: white; }
+.main-header { background-color: white; }
 .main-logo { background-color: white; color: black }
 .main-nav { background-color: white; }
 .main-nav li { background-color: white; color: black }
@@ -40,34 +40,34 @@ h1 { color: black}
 h3 { color: black; font-style:italic}
 p { color: black }
 
-/* HEADER, LOGO, NAV & FOOTER LAYOUT 
+/* HEADER, LOGO, NAV & FOOTER LAYOUT
 ==============================*/
 
 
 
 .main-logo {
-	text-align: center;
-	padding-top: 30px;
-	padding-bottom: 30px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .main-nav {
-	text-align: center;
-	list-style: none;
-	padding-left: 0; /* PLACING THE PADDING-LEFT TO THE 0 VALUE IN THE PARENT MAIN-NAV CONTAINER REMOVES THE UNORDERED LIST INDENT */
+  text-align: center;
+  list-style: none;
+  padding-left: 0; /* PLACING THE PADDING-LEFT TO THE 0 VALUE IN THE PARENT MAIN-NAV CONTAINER REMOVES THE UNORDERED LIST INDENT */
 }
 
 .main-nav li {
-	margin-bottom: 10px;
-	padding: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
 }
 
 .main-footer {
-	text-align: center;
-	/* TO REMOVE THE WHITESPACE BELOW THE FOOTER */
-	height: 100%;
-	padding-top: 5%;
-	padding-bottom: 5%;
+  text-align: center;
+  /* TO REMOVE THE WHITESPACE BELOW THE FOOTER */
+  height: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 
@@ -75,37 +75,37 @@ p { color: black }
 ==============================*/
 
 .content-row {
-	margin-top: 0px;
-	clear: both;
+  margin-top: 0px;
+  clear: both;
 }
 
 .col {
-	height: 100%; /* TO ELIMINATE WHITE SPACE BETWEEN COLUMNS */
+  height: 100%; /* TO ELIMINATE WHITE SPACE BETWEEN COLUMNS */
 }
 
 .primary {
-	text-align: center;
-	padding-top: 2%;
-	padding-bottom: 2%;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 
 .secondary {
-	text-align: center;
-	padding-top: 2%;
-	padding-bottom: 2%;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 
 .contentPage {
-	text-align: center;
-	padding-top: 2%;
-	padding-bottom: 2%;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 
 /* PSEUDO CLASSES
 ==================================*/
 a:hover {
-	color: orange;
-	
+  color: orange;
+
 }
 
 
@@ -122,56 +122,56 @@ a:hover {
 ==============================*/
 
 @media (min-width: 1150px) { /*USE A MEDIA QUERY TO ADJUST TO 90% WIDTH FOR LARGER DEVICES */
-	
-	
-	.main-logo {
-		 float: left;
-		 width: 40%;
-		 padding-top: 40px;
-		 padding-bottom: 40px;
-		 
-	}
-	
-	.main-nav {
-		float: right;
-		width: 60%;
-		margin: 0;
-		padding-top: 27px; /* THIS IS NOT THE OPTIMAL WAY TO CENTER POSITION YOUR NAV BUTTONS. LOOK FOR A BETTER WAY */
-		padding-bottom: 22px;
-	}
-	
-	.main-nav li {
-		display: inline-block;
-		padding-left: 4.5%;
-		padding-right: 4.5%;
-		margin-right: 5px;
-		padding: 20px 30px;
-	}
-	
-	.content-row {
-		clear: both;
-		margin: 0;
-		border-top: solid black 10px;
-	}
-	
-	.col {
-		height: 100%;
-	}
-	
-	.primary,
-	.secondary,
-	.contentPage {
-		padding-top: 30px;
-		padding-bottom: 30px;
-	}
-	
-	p {
-		padding: 0 25% 0 25%;
-		line-height: 2em;
-	}
-	
-	.main-footer {
-		padding-top: 1%;
-		padding-bottom: 1%;
-	}
-	
+
+
+  .main-logo {
+     float: left;
+     width: 40%;
+     padding-top: 40px;
+     padding-bottom: 40px;
+
+  }
+
+  .main-nav {
+    float: right;
+    width: 60%;
+    margin: 0;
+    padding-top: 27px; /* THIS IS NOT THE OPTIMAL WAY TO CENTER POSITION YOUR NAV BUTTONS. LOOK FOR A BETTER WAY */
+    padding-bottom: 22px;
+  }
+
+  .main-nav li {
+    display: inline-block;
+    padding-left: 4.5%;
+    padding-right: 4.5%;
+    margin-right: 5px;
+    padding: 20px 30px;
+  }
+
+  .content-row {
+    clear: both;
+    margin: 0;
+    border-top: solid black 10px;
+  }
+
+  .col {
+    height: 100%;
+  }
+
+  .primary,
+  .secondary,
+  .contentPage {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  p {
+    padding: 0 25% 0 25%;
+    line-height: 2em;
+  }
+
+  .main-footer {
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+
