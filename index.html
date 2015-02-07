@@ -1,60 +1,44 @@
 <!doctype html>
 <html>
-<head>
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><!-- YOU SHOULD GIVE AN INDENT TO THE CHILDREN OF THE HEAD CONTAINER. THIS INCLUDES THE META, TITLE, AND LINK ELEMENTS -->
-  <meta content="width=device-width, initial-scale=1" name="viewport" /><!-- I WANT TO DELETE THIS, BUT I'M NOT SURE WHAT IT DOES? --><script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-58620225-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-  <title>Bryan Finlayson - Web Designer</title>
-  <!-- IS THIS SEEN BY THE USER AT ANY POINT? -->
-  <link href="css/normalize.css" rel="stylesheet" /><!-- THE NORMALIZE.CSS FILE SHOULD BE LOADED BEFORE ANY AGENT STYLES -->
-  <link href="css/style.css" rel="stylesheet" /><script src="js/script.js"></script>
-</head>
-<body><!-- INDENT THE CHILDREN OF THE BODY CONTAINER, AS SEEN BELOW -->
-<div class="main-wrapper"><!-- IT IS COMMON PRACTICE TO WRAP THE BODY IN A DIV CONTAINER AND ASSIGN IT THE MAIN-WRAPPER CLASS -->
-<header class="main-header"><!-- QUESTION: WHAT IS THE PURPOSE OF THE HEADER ELEMENT? WHY NOT JUST USE A DIV? -->
-<h1 class="main-logo"><a href="index.html">Bryan Finlayson Web Design</a></h1>
-
-<ul class="main-nav"><!-- USE AN UNORDERED LIST TO FORM THE MAIN NAVIGATION FOR THE SITE -->
-  <li><a href="design.html">Design</a></li>
-  <li><a href="coding.html">Coding</a></li>
-  <li><a href="/blog/index.php">Blog</a></li>
-  <li><a href="javascript:myPhotographyAlert();">Photography</a></li>
-  <li><a href="https://bdfinlayson.futuresimple.com">Hire Me!</a></li>
-</ul>
-</header>
-<!-- HEADER ENDS HERE -->
-
-<div class="content-row"><!-- IT IS STANDARD PRACTICE TO WRAP ALL COLUMNS IN A DIV CONTAINER -->
-<div class="primary col"><!-- THE PRIMARY COLUMN OF THE SITE IS CONTAINED IN A DIV -->
-<h1>Welcome to my Website!</h1>
-
-<p>My name is Bryan Finlayson, and I am a web designer. I design beautiful user interfaces, then bring them to life with HTML, CSS, and JavaScript.</p>
-
-<hr />
-<p>If you need a front-end designer for your next project, <a href="#">take a look at my work</a>, then <a href="https://bdfinlayson.futuresimple.com">get in touch</a>!</p>
-</div>
-
-<div class="secondary col"><!-- THE SECONDARY COLUMN OF THE SITE IS ALSO CONTAINED IN A DIV -->
-<h1>I also enjoy photography!</h1>
-
-<p>When I&#39;m not coding new websites, I&#39;m out taking photographs of people and places. Feel free to use my photographs for your projects.</p>
-
-<hr />
-<p>Attribute any photos you use to my site, bryanfinlayson.com.</p>
-</div>
-</div>
-
-<footer class="main-footer">
-<p>Website Design by Bryan Finlayson &copy; 2015</p>
-</footer>
-</div>
-</body>
+     ga('create', 'UA-58620225-1', 'auto');
+     ga('send', 'pageview');
+    </script>
+    <title>Bryan Finlayson - Web Designer</title>
+    <link href="css/normalize.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+   </head>
+   <body>
+     <div class="main-wrapper">
+        <header class="main-header">
+          <h1 class="main-logo"><a href="index.html">Bryan Finlayson Web Design</a></h1>
+          <ul class="main-nav">
+            <li><a href="#coding">Coding</a></li>
+            <li><a href="/blog/index.php">Blog</a></li>
+            <li><a href="/contact.html/">Hire Me!</a></li>
+          </ul>
+        </header>
+        <div class="content-row">
+          <div class="primary col">
+            <h1>Welcome to my Website!</h1>
+            <p>My name is Bryan Finlayson, and I am making one website a day for the next 140 days!</p>
+            <p>You can follow my progress here and on my <a href="http://bryanfinlayson.com/blog/">blog</a>.</p>
+            <hr />
+            <p>If you need a front-end designer for your next project, <a href="#">take a look at my work</a>, then <a href="https://bdfinlayson.futuresimple.com">get in touch</a>!</p>
+          </div>
+       </div>
+     </div>
+     <footer class="main-footer">
+       <p>Website Design by Bryan Finlayson &copy; 2015</p>
+     </footer>
+     <script src="js/script.js"></script>
+   </body>
 </html>
