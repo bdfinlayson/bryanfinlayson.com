@@ -1,110 +1,125 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brume</title>
+    <title>Bryan Finlayson</title>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <description>It's simple. It's easy to use. It's a Jekyll theme.</description>
+    <description>My blog about the Nashville tech scene and my learnings as a budding software developer.</description>
     <language>en-us</language>
-    <pubDate>Fri, 01 May 2015 00:08:29 -0500</pubDate>
-    <lastBuildDate>Fri, 01 May 2015 00:08:29 -0500</lastBuildDate>
+    <pubDate>Fri, 01 May 2015 12:04:04 -0500</pubDate>
+    <lastBuildDate>Fri, 01 May 2015 12:04:04 -0500</lastBuildDate>
 
     
       <item>
         <title>My First Hack Tennessee!!!</title>
         <link>/My-First-Hack-Tennessee</link>
         <pubDate>Thu, 30 Apr 2015 00:00:00 -0500</pubDate>
-        <author>Aigars Dzerviniks</author>
+        <author>Bryan Finlayson</author>
         <description>&lt;p&gt;Tomorrow I am going to my first Hack Tennessee! Super excited to see what unfolds at the event! More updates soon...&lt;/p&gt;
 </description>
       </item>
     
       <item>
-        <title>Sample Post with Markdown examples</title>
-        <link>/Sample-Post-With-Markdown</link>
-        <pubDate>Wed, 29 Apr 2015 00:00:00 -0500</pubDate>
-        <author>Aigars Dzerviniks</author>
-        <description>&lt;p&gt;Praesent tincidunt vestibulum sem nec eleifend. Pellentesque adipiscing mollis adipiscing. Sed ipsum sem, eleifend eget dapibus in, tincidunt ut dolor. Curabitur gravida urna leo, eget auctor turpis feugiat non. Vivamus pharetra, lorem id ullamcorper rutrum, eros erat condimentum erat, ac dignissim lorem nisi nec nunc. Praesent tellus mi, volutpat quis nisl et, consectetur blandit nibh.&lt;/p&gt;
+        <title>NSS Cohort 7 Demo Day Roundup</title>
+        <link>/NSS-Cohort-7-Demo-Day-Roundup</link>
+        <pubDate>Fri, 27 Mar 2015 00:00:00 -0500</pubDate>
+        <author>Bryan Finlayson</author>
+        <description>&lt;p&gt;Demo Day marks graduation from NSS, and it&amp;#39;s when students demo their capstone software applications to potential employers at the all-day event. As a student in the software school myself, it was my second time attending a Demo Day at NSS and it was a blast. (Read my roundup of my first Demo Day, which featured Cohort 6, &lt;a href=&quot;http://bryanfinlayson.com/blog/nashville-software-school/demo-day-january-2015/&quot; title=&quot;Cohort 6 Demo Day&quot;&gt;here&lt;/a&gt;).  Cohort 7&amp;#39;s capstone apps spanned a diverse array of usage categories, including social media, business, productivity, civic, education, and gaming. In my estimation, the single most popular category for the apps was social media, while apps with a business and/or productivity focus were also prominent. The pie chart below summarizes my assessment of the distribution by category of Cohort 7&amp;#39;s capstone apps. Most apps were built using some combination of C#, AngularJS, ASP .NET MVC, and SQL.&lt;/p&gt;
 
-&lt;p&gt;Nulla sit amet nulla non odio sodales mollis elementum sed sem. Aenean et laoreet enim. Curabitur vulputate, mi rutrum commodo condimentum, enim nunc feugiat magna, vel rutrum sapien ante nec ante. Donec nec nibh placerat, molestie felis ac, vulputate arcu. Donec condimentum pellentesque nibh vel tincidunt. Fusce sem ipsum, varius at laoreet vitae, accumsan sed nisl. Nunc eget viverra diam. Aliquam pulvinar, enim id commodo tincidunt, risus lectus pharetra lacus, et semper enim ligula ut mauris. Sed vitae sollicitudin ante. In sollicitudin placerat dui et sagittis.&lt;/p&gt;
+&lt;h2&gt;Social Media&lt;/h2&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas egestas leo id tortor feugiat, sit amet cursus diam mollis. Nunc sit amet tellus est. Nunc lacus nisl, gravida ut aliquam vel, molestie eget odio. Nulla facilisi. Ut sed libero pharetra nunc volutpat hendrerit. Mauris eget mi adipiscing, congue tellus ut, scelerisque eros. Phasellus ullamcorper dictum tellus nec pretium.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Students Leon Peck, Jaclyn Pasquale, &lt;a href=&quot;http://charisselambert.com/&quot; title=&quot;http://charisselambert.com/&quot;&gt;Charisse Lambert&lt;/a&gt;, Spencer Sharpe, Blaise Gratton, and Adam Sheaffer all built apps with a social media bent. &lt;a href=&quot;http://leonpeck.com/&quot; title=&quot;Leonpeck.com&quot;&gt;Leon Peck&lt;/a&gt; used AngularJS, jQuery, C#, Entity Framework to build an app called &lt;a href=&quot;http://leonpeck.com/#portfolioModal1&quot; title=&quot;Leon Peck&amp;#39;s Which___?&quot;&gt;Which___?&lt;/a&gt;, which users to anonymously upload two items and have the community vote on which they like more. During a demo of the app, I was impressed by the seamless layout and simple user interface. I was similarly impressed by &lt;a href=&quot;http://jaclynpasquale.com/&quot; title=&quot;Jaclynpasquale.com&quot;&gt;Jaclyn Pasquale&lt;/a&gt;&amp;#39;s sleek-looking dating app, called &lt;a href=&quot;http://jaclynpasquale.com/#portfolioModal5&quot; title=&quot;Haterdate&quot;&gt;Haterdate&lt;/a&gt;, which uses ASP.NET MVC and AngularJS to match people based on their mutual hate of various things. &lt;/p&gt;
 
-&lt;p&gt;Integer molestie orci ante, nec dictum metus aliquam ut. Donec id tristique enim. Quisque tellus est, dignissim ut justo ac, volutpat fringilla mi. Duis ultricies nec sapien vitae blandit. &lt;strong&gt;Suspendisse sed est mi&lt;/strong&gt;. Mauris varius sapien vel nulla accumsan, id tincidunt ipsum ultrices. Sed eget magna mauris. Etiam porttitor lacus ullamcorper lacus tincidunt aliquam. Sed feugiat congue fringilla. Nunc velit diam, vulputate sed metus vitae, iaculis tempor arcu. Proin consectetur a erat in dignissim.&lt;/p&gt;
+&lt;p&gt;Other creative social media apps include those by Spencer Sharpe, Blaise Gratton, and Adam Sheaffer. &lt;a href=&quot;http://spencersharpe.com/&quot;&gt;Sharpe&lt;/a&gt;&amp;#39;s app &lt;a href=&quot;https://buzzhub.firebaseapp.com/#/&quot; title=&quot;Buzzhub&quot;&gt;Buzzhub&lt;/a&gt; is a platform where users can find, track, and rate their favorite coffee shops and drinks. &lt;a href=&quot;https://adamsheaffer.github.io/&quot; title=&quot;adamsheaffer.github.io&quot;&gt;Sheaffer&lt;/a&gt;&amp;#39;s app &lt;a href=&quot;https://github.com/AdamSheaffer/Groundout&quot; title=&quot;Groundout&quot;&gt;Groundout&lt;/a&gt; (which was cleverly integrated with a discount ticket search API by &lt;a href=&quot;https://seatgeek.com/&quot; title=&quot;seatgeek.com&quot;&gt;SeatGeek&lt;/a&gt;) targeted the baseball fan market by giving fans a way to log their experience in each ballpark they visit, view comments by other fans, and earn badges as they go. Finally, &lt;a href=&quot;http://blaisegratton.me/&quot; title=&quot;http://blaisegratton.me/&quot;&gt;Gratton&lt;/a&gt; demoed two apps, &lt;a href=&quot;https://roommate-finder.firebaseapp.com/#/&quot; title=&quot;Room Me!&quot;&gt;Room Me!&lt;/a&gt;, geared toward helping people find roommates, and &lt;a href=&quot;http://flashband.azurewebsites.net/&quot; title=&quot;http://flashband.azurewebsites.net/&quot;&gt;Flashband&lt;/a&gt;, which helps musicians find other musicians they might like to play with. I particularly liked the functionality in Room Me! that allowed users to filter potential matches via a weighted algorithm.&lt;/p&gt;
 
-&lt;table&gt;&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Tables&lt;/th&gt;
-&lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
-&lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;col 3 is&lt;/td&gt;
-&lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
-&lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;col 2 is&lt;/td&gt;
-&lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
-&lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;zebra stripes&lt;/td&gt;
-&lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
-&lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2&gt;Business&lt;/h2&gt;
 
-&lt;p&gt;Pellentesque adipiscing mollis adipiscing.&lt;/p&gt;
+&lt;p&gt;No Demo Day would be complete without apps in the business category, and business apps were not in short supply. Apps by Gerald Wakefield, &lt;a href=&quot;http://stephaniaiyob.com/&quot; title=&quot;http://stephaniaiyob.com/&quot;&gt;Stephania Iyob&lt;/a&gt;, &lt;a href=&quot;http://gregkorte.com/&quot; title=&quot;http://gregkorte.com/&quot;&gt;Greg Korte&lt;/a&gt;, and Evan Roan covered a variety of uses in healthcare, psychology, and general business. &lt;a href=&quot;http://geraldwakefield.io/&quot; title=&quot;http://geraldwakefield.io/&quot;&gt;Gerald Wakefield&lt;/a&gt;&amp;#39;s app, &lt;a href=&quot;http://doctorinthelobby.geraldwakefield.io/#/&quot; title=&quot;http://doctorinthelobby.geraldwakefield.io/#/&quot;&gt;Doctor In The Lobby&lt;/a&gt;, was impressive for its use of data from the Federal Food and Drug Administration&amp;#39;s API to contrast spending by pharmaceutical companies and the adverse effects associated with the drugs that they produce. The app doesn&amp;#39;t prove that higher spending on lobbyists is linked to higher instances of negative side effects, but the data does make a convincing argument. &lt;/p&gt;
+
+&lt;p&gt;Also appealing for its use of data was &lt;a href=&quot;http://evanroane.com/&quot; title=&quot;http://evanroane.com/&quot;&gt;Evan Roane&lt;/a&gt;&amp;#39;s app, &lt;a href=&quot;http://bat.evanroane.com/#/&quot; title=&quot;http://bat.evanroane.com/#/&quot;&gt;B.A.T.&lt;/a&gt;, which stands for behavior analysis tracker. B.A.T is a tool for behavioral psychologists to record data from observing patient behaviors and produce meaningful feedback for implementing interventions. The app can also have applications in education, where behavioral psychologists are sometimes hired to analyze and track child behavior. He is looking for people to contribute to his open-source project, so check the &lt;a href=&quot;https://github.com/evanroane/BehaviorAnalysisTracker&quot; title=&quot;BAT source code&quot;&gt;source code&lt;/a&gt; out on Github if you are interested.&lt;/p&gt;
+
+&lt;h2&gt;Productivity&lt;/h2&gt;
+
+&lt;p&gt;Demo Day also had its fare share of productivity applications, too. Students Colby DeHart, Sonda Sengupta, and Kris Mannino all built applications that were geared, some way or another, toward helping users better organize their lives. &lt;a href=&quot;http://sondasengupta.com/&quot; title=&quot;http://sondasengupta.com/&quot;&gt;Sengupta&lt;/a&gt;&amp;#39;s app &lt;a href=&quot;http://sondasengupta.com/portfolio/2014/12/25/HomefortheHolidays.html&quot; title=&quot;Homes for the Holidays&quot;&gt;Homes for the Holidays&lt;/a&gt; stood out for its beautiful design and great user interface, while I could see myself using &lt;a href=&quot;http://krismannino.com/&quot; title=&quot;http://krismannino.com/&quot;&gt;Mannino&lt;/a&gt;&amp;#39;s app &lt;a href=&quot;https://github.com/KrisMannino/reeList&quot; title=&quot;ReeList&quot;&gt;ReeList&lt;/a&gt; for managing and tracking the movies I watch. However, my favorite among the three was &lt;a href=&quot;http://colbydehart.com/&quot; title=&quot;http://colbydehart.com/&quot;&gt;DeHart&lt;/a&gt;&amp;#39;s app &lt;a href=&quot;http://colbydehart.com/when/#/&quot; title=&quot;http://colbydehart.com/when/#/&quot;&gt;When&lt;/a&gt;, a group activity planner that DeHart&amp;#39;s friends are already actively using to schedule events. Most impressive about the app was its custom algorithm that allows the user to drag a mouse over days of the week in a calendar to select which days they are available to meet. You can find the source code for When on Github &lt;a href=&quot;https://github.com/colbydehart/when&quot; title=&quot;https://github.com/colbydehart/when&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Civic&lt;/h2&gt;
+
+&lt;p&gt;On the civic activism side of things, &lt;a href=&quot;http://beckcd.com/&quot; title=&quot;http://beckcd.com/&quot;&gt;Rebecca Cronin-Dixon&lt;/a&gt; and &lt;a href=&quot;https://github.com/luketucker28&quot; title=&quot;https://github.com/luketucker28&quot;&gt;Luke Tucker&lt;/a&gt; built civic-minded apps to help Tennessee residents learn more about the resources available to them in their communities. &lt;a href=&quot;https://bcd-rescue-me.firebaseapp.com/#/&quot; title=&quot;Rescue Me&quot;&gt;Rescue Me&lt;/a&gt; by Cronin-Dixon is a web application for dog rescue groups to find shelter dogs and manage their existing dogs. Tucker&amp;#39;s app, &lt;a href=&quot;https://github.com/luketucker28/TN-Congressional-District-Finder&quot; title=&quot;TN Congressional District Finder&quot;&gt;Tennessee Congressional District Finder&lt;/a&gt;, has a title that is self explanatory: it enables users to identify their congressional representatives by address, providing the representatives political profile, biography, and contact information.&lt;/p&gt;
+
+&lt;h2&gt;Education&lt;/h2&gt;
+
+&lt;p&gt;Targeting the education industry, &lt;a href=&quot;http://alexstory.io/&quot; title=&quot;http://alexstory.io/&quot;&gt;Alex Story&lt;/a&gt; built a neat language learning app, called &lt;a href=&quot;https://github.com/AlexStory/HiriKata&quot; title=&quot;https://github.com/AlexStory/HiriKata&quot;&gt;Hirikata&lt;/a&gt;. Hirikata is an interactive flashcard application for learning Japanese. Built front to back using an ASP.Net MVC Restful database with an AngularJS front end, it is not to be missed. Check out the source code out &lt;a href=&quot;https://github.com/AlexStory/HiriKata&quot; title=&quot;https://github.com/AlexStory/HiriKata&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Gaming&lt;/h2&gt;
+
+&lt;p&gt;For those who like Sudoku, &lt;a href=&quot;http://brandontate.me/&quot; title=&quot;http://brandontate.me/&quot;&gt;Brandon Tate&lt;/a&gt; built a cool version of the game. Try it out &lt;a href=&quot;https://nss-sudoku.firebaseapp.com/&quot; title=&quot;https://nss-sudoku.firebaseapp.com/&quot;&gt;here&lt;/a&gt;. You can view the &lt;a href=&quot;https://github.com/brandontate/nss-capstone-sudoku&quot; title=&quot;Source Code for Sudoku&quot;&gt;source code&lt;/a&gt; on Github, too.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;As a Cohort 8 student who just finished &lt;a href=&quot;http://bryanfinlayson.com/code/504-anecdotals/#/login&quot; title=&quot;504 Anecdotals&quot;&gt;my capstone for the first half of the program&lt;/a&gt; at NSS, it was super useful to see what all the other students from Cohort 7 did for their capstone projects. Not only that, it was a valuable experience to see the students present the projects in a professional format and hear them field questions from potential employers. I&amp;#39;m looking forward to my cohort&amp;#39;s Demo Day on June 26!&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Dave Delaney Gives Talk At Nashville Software School</title>
+        <link>/Dave-Delaney-Gives-Professional-Networking-Talk-At-Nashville-Software-School</link>
+        <pubDate>Sat, 17 Jan 2015 00:00:00 -0600</pubDate>
+        <author>Bryan Finlayson</author>
+        <description>&lt;p&gt;Networking is the key to any successful career, especially for software developers. But how should one approach networking to achieve their professional goals? In a presentation last week to aspiring software developers at the &lt;a href=&quot;http://nashvillesoftwareschool.com/&quot; title=&quot;Nashville Software School&quot;&gt;Nashville Software School&lt;/a&gt;, digital marketing consultant &lt;a href=&quot;http://daveadelaney.com/new-business-networking-2/&quot; title=&quot;Dave Delaney&amp;#39;s website&quot;&gt;Dave Delaney&lt;/a&gt; gave strategies for connecting with others on a personal level, both in person and online. Delaney, who authored the book &lt;a href=&quot;http://www.amazon.com/New-Business-Networking-Effectively-Biz-Tech/dp/0789750988&quot; title=&quot;New Business Networking&quot;&gt;New Business Networking: How to Effectively Grow Your Business Network Using Online and Offline Methods&lt;/a&gt; (Pearson Education, 2013), highlighted several key topics for students to focus on as they build their professional networks, such as identifying your passions, attending networking events, and developing an online reputation.&lt;/p&gt;
+
+&lt;p&gt;On identifying passions, Delaney said that before students go to networking events, students should create a list of current and former personal passions and interests. Knowing what your passions and interests are will help you connect with others who share similar interests. It may even help you discover new groups to connect with that you might not have previously thought to interact with, Delaney said.&lt;/p&gt;
+
+&lt;p&gt;As examples, Delaney highlighted the stories of famous entrepreneurial friendships/partnerships, including those of Steve Jobs and Steve Wozniak, Bill Gates and Paul Allen, and the magicians Siegfried and Roy. Their life stories are examples of individuals who came together to form successful partnerships. The initial spark for those partnerships was a mutual passion, Delaney said. &amp;quot;Passions lead to paths,&amp;quot; Delaney said. &amp;quot;What I mean by that is identifying those passions, writing them down, thinking about them, returning to them on a daily or weekly basis, really thinking about this stuff will lead to paths. Follow those passions.&amp;quot; Once students have clarified their passions and interests, one of the best ways to build a professional network is by attending events. Students should attend events regularly. Delaney stressed that students should begin developing their professional networks early, long before they are ready to graduate.&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;When it comes to networking, you need to build your network before you actually need it,&amp;quot; Delaney said. &amp;quot;Because it sucks to come out of school and go, &amp;#39;Crap, now I need a job.&amp;#39; It&amp;#39;s way better to be meeting people while you&amp;#39;re in school so you can get a job really quickly afterwards.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;When attending networking events, Delaney stressed that job seekers should try to be as down to earth as possible.&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;I&amp;#39;m not about cheesy high pressure networking events where you feel like you&amp;#39;ve been abused or something,&amp;quot; Delaney said. &amp;quot;I&amp;#39;m about having a beer and connecting with people, or a breakfast, whatever the case may be. So networking is about connecting with people, connecting people with similar interests who good things can come from.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Although networking is often about finding a job, networking must also be about helping others. Delaney said effective networking &amp;quot;is a two way street&amp;quot; that requires that job seekers to actively use their skills, knowledge and personal network to help others accomplish goals or solve problems. The challenge is to find ways to help other people before asking for anything in return, Delaney said.&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;When you think about networking, you need to be thinking about ways to help other people first before you ever ask for anything in return,&amp;quot; Delaney said. &amp;quot;It&amp;#39;s fine to ask for things, but you&amp;#39;re really going to annoy people.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Regarding online networking, Delaney said personable communications and blogging are critically important. On personable online communications, Delaney said that many people have &lt;a href=&quot;https://www.facebook.com/&quot; title=&quot;Facebook&quot;&gt;Facebook&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/&quot; title=&quot;Linkedin&quot;&gt;Linkedin&lt;/a&gt; profiles, but forget the importance of making their professional communications as personable as possible. To emphasise the importance of a personable online communication, Delaney used himself as an example. When he worked for &lt;a href=&quot;http://griffintechnology.com/&quot; title=&quot;Griffin Technology&quot;&gt;Griffin Technology&lt;/a&gt; in Nashville 3.5 years, Delaney managed all of Griffin&amp;#39;s social media accounts. An effective innovation that Delaney implemented during his time at Griffin was to attach a profile picture of himself on every email and piece of marketing material. This simple networking trick made his communications more personable and also improved his recognition at networking events, Delaney said.&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;The point is that when I would travel to events and conferences on behalf of Griffin or was just walking around town, I would meet customers and they would recognize me by my face,&amp;quot; Delaney said. &amp;quot;It&amp;#39;s so important.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;On the other key ingredient of online networking, blogging, Delaney said blogging about an industry can help students build professional credibility and impress prospective employers. Again, Delaney used his personal story as an example. Delaney presently lives in Nashville, but he is originally from Toronto, Canada. He moved to Nashville eight years ago with few professional connections. He used blogging as a way to network and learn more about local industries and industry leaders in Nashville.&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;When I was getting ready to move to Nashville I started a blog, &lt;a href=&quot;http://www.davemadethat.com/&quot; title=&quot;New Media Musings&quot;&gt;New Media Musings&lt;/a&gt; for Nashville,&amp;quot; Delaney said. &amp;quot;The point of doing this was I wanted to research broadcasting companies, tech companies, and any company in the area that I was interested in. So, I used New Media as a blog to write about what was going on in Nashville. I was researching the players in Nashville, the companies in Nashville, and was writing about them in this blog.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Delaney continued, &amp;quot;What&amp;#39;s great about it is when I would go to job interviews they would look me up and they would find this blog and they would say, &amp;#39;Wow, he hasn&amp;#39;t even officially moved here yet and he is already blogging about the community.&amp;#39; So in part it was my own personal branding exercise, but more importantly it was a way for me to learn about the space here and learn about everybody here.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Delaney stressed that every student at the Nashville Software School should maintain a blog. Possible topics could include class projects, programming languages, and observations about the local tech industry. Sharing this information will help others, as well as yourself, Delaney said.&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;When it comes to the blogging, you have an opportunity here blog about the stuff that you are learning and that&amp;#39;s a huge opportunity because then you are going to be sharing knowledge,&amp;quot; Delaney said. &amp;quot;The projects that you are working on, the experience of being here, anything like that will help other people. If you start a blog about what you are learning, you&amp;#39;re providing valuable content. You&amp;#39;re also establishing yourself as an expert in that language, or in that area that you&amp;#39;re talking about. So I always tell students to write a blog. Start writing about what you are learning. Because you are being fed great information.&amp;quot;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Nashville Software School Cohort 6 Demo Day</title>
+        <link>/Nashville-Software-School-Cohort-6-Demo-Day</link>
+        <pubDate>Thu, 15 Jan 2015 00:00:00 -0600</pubDate>
+        <author>Bryan Finlayson</author>
+        <description>&lt;p&gt;On Tuesday, students of Nashville Software School&amp;#39;s 6th cohort demoed their capstone projects to potential employers. Companies with representatives at the event included Emma, Raven, Eventbrite, and LoneyPlanet. As a new NSS student, I found the event to be very informative. Thirteen students in all presented at the demo day. (There were over 20 students in Cohort 6, but the others have already found jobs since graduating in December!) &lt;/p&gt;
+
+&lt;p&gt;On the game front, students Nathan Vasquez, Matt Keef and Michael Barreiro developed interesting 2D video games using phaser.js. Vasquez&amp;#39;s game, Gravity, particularly stood out as a desktop/mobile hybrid for its utilization of an iPhone&amp;#39;s built-in gyroscope sensor to control the movement of players on the screen. Gravity pits planets against each other in an easy, fun, and addictive way. Vasquez utilized three different javascript frameworks stacked together: Phaser.js, Ionic Mobile Framework, and Socket.io. I ,for one, got a kick out of it.&lt;/p&gt;
+
+&lt;p&gt;Many of the projects were built using the MEAN stack, the collection of languages and technologies that Cohort 6 specialized in: Node.js, Angular.js, Express.js, and MongoDB. The projects were impressive for their variety and scope. I was blown away by breadth of the students&amp;#39; knowledge and by the amount of material that they had been exposed to and mastered over the course of the 6-month program at Nashville Software School. To highlight a few projects that stood out to me, Juan Job Rodriguez&amp;#39;s project, &lt;a href=&quot;http://port.juanjob.info/#/&quot; title=&quot;Visa Port&quot;&gt;Visa Port&lt;/a&gt;, focused on the travel industry. His project was interesting for its use of immigration data to create a travel database that allows users to check visa requirements of the country they are travelling to. It is live on the internet, so check it out! &lt;/p&gt;
+
+&lt;p&gt;On the social media front, Melanie Fryman&amp;#39;s project, Brownie Points, stood out for its beautiful user interface. Brownie Points is a social web application that friends can use to award, track, and exchange brownie points. She used the NASH stack (Node.js, Angular.js, SQL, Hapi) to build it. Targeting the music industry, Sarah Pearson, a HackNashville 6 finalist, created a database app for music publishing companies to keep track of all their song information. Angular.js, Node, Postgres, and Hapi were some of the technologies she used. In the healthcare category, student Brian Hiatt chose to focus on workflow management with his web app, &lt;a href=&quot;https://github.com/bchiatt/runner2&quot; title=&quot;Runner 2.0&quot;&gt;Runner 2.0&lt;/a&gt;, a physical therapy admission to discharge flow management app. Finally, in education, Zoe Ames&amp;#39;s app, &lt;a href=&quot;http://coursecontrol.zoeames.com&quot; title=&quot;CourseControl&quot;&gt;CourseControl&lt;/a&gt;, was especially impressive for its functionality. CourseControl allows teachers to bring technology into their classrooms by providing a platform where teachers can ask questions and students can vote with their smartphones. She used javascript, PostgreSQL, Hapi, Angular, Node, and Foundation to build it. CourseControl is also live on the web, so make sure to take a test drive. &lt;/p&gt;
+
+&lt;p&gt;During the event I had the chance to talk to several employers, too. I asked them the same question: What projects stand out to you and what are you looking for in a potential hire? Each employer had a different answer, but I&amp;#39;ll summarize their responses here. In short, employers at the Nashville Software School demo day were looking for:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Nulla sit amet nulla non odio sodales mollis elementum sed sem.&lt;/li&gt;
-&lt;li&gt;Donec id tristique enim. Quisque tellus est, dignissim ut justo ac, volutpat fringilla mi.&lt;/li&gt;
-&lt;li&gt;Nam luctus erat dolor, non viverra nulla varius at.&lt;/li&gt;
+&lt;li&gt;  Students who show ability to come &amp;quot;full circle&amp;quot; on a project by completing and executing a fully thought out project, both on the front-end and back-end.&lt;/li&gt;
+&lt;li&gt;  Students who have spent time ironing out the bugs in their projects over an extended period, rather than cramming and hastily putting together an app in a week or two.&lt;/li&gt;
+&lt;li&gt;  Students who display initiative to learn and apply technologies not taught in class.&lt;/li&gt;
+&lt;li&gt;  Students who use their projects to solve some kind of problem, rather than just use their projects as platforms to showcase what they learned how to do in class.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Curabitur nec ullamcorper dui, blandit aliquet ipsum. Integer suscipit odio quis eros fermentum auctor. Sed tincidunt quam eleifend, egestas erat vulputate, tincidunt metus. Maecenas gravida sodales mi nec posuere. Cras vel nisi condimentum, hendrerit lacus sed, scelerisque ipsum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc convallis vestibulum erat, quis porta tellus. &lt;em&gt;In lorem erat, sollicitudin varius posuere id, molestie ac eros&lt;/em&gt;. Fusce luctus tellus vitae vulputate venenatis. Sed scelerisque bibendum interdum. Sed pretium commodo ultrices. Fusce luctus quam id porttitor vulputate. Integer ornare consectetur diam eget rutrum. Etiam eget sapien metus.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Ornare&lt;/dt&gt;
-  &lt;dd&gt;Cras vel nisi condimentum, hendrerit lacus sed, scelerisque ipsum.&lt;/dd&gt;
-  &lt;dt&gt;Convallis&lt;/dt&gt;
-  &lt;dd&gt;In lorem erat, sollicitudin varius posuere id, molestie ac eros&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Proin at libero id lorem fermentum elementum quis eget est.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Nam bibendum turpis massa, at accumsan justo fermentum ac.&lt;/li&gt;
-&lt;li&gt;Nulla non nulla ut ante condimentum mattis vel at lectus.&lt;/li&gt;
-&lt;li&gt;Etiam eget tortor tincidunt, iaculis ligula a, tristique massa. Fusce sed congue lorem, interdum sodales nisl.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Etiam consequat euismod ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla pellentesque ipsum vulputate, pellentesque nisl vitae, lacinia sem. Praesent auctor felis et odio ultrices, nec tempor elit lobortis. Etiam ornare massa non risus luctus, id iaculis lacus egestas. Pellentesque massa dolor, mattis id lobortis eget, tristique vitae est.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Nam vulputate leo vitae libero vehicula, id tincidunt velit malesuada. In vel ornare nisi, id semper turpis. Vivamus erat elit, venenatis quis dui at, convallis suscipit sapien. Nunc in nisi scelerisque, aliquam mauris porttitor, facilisis ligula. Vestibulum cursus erat ac turpis bibendum, id pulvinar dolor dapibus. Proin vitae justo et velit imperdiet ultrices id id odio. Cras adipiscing ante vel mauris lobortis rutrum. Aenean eu felis est. In lacinia porttitor risus non sagittis.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Greeter&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;vi&quot;&gt;@message&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;message&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;greet&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;message&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;john&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Greeter&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Hello, World&amp;#39;&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;john&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;greet&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Sed imperdiet interdum ultrices. Phasellus iaculis porttitor lorem nec scelerisque. Suspendisse eros urna, adipiscing vel luctus at, feugiat sit amet arcu. Aliquam porttitor ut urna pellentesque sagittis. Donec pellentesque venenatis diam sit amet cursus. Etiam luctus, metus quis gravida fermentum, tortor arcu consequat metus, eget viverra augue risus ac dui. Fusce faucibus scelerisque quam eu sagittis. Sed sit amet sapien non augue lobortis adipiscing. Sed sagittis at lectus eu tempus. Nulla non nulla ut ante condimentum mattis vel at lectus. Nulla ultricies dui et urna semper ultrices. Sed neque ante, dictum in dignissim luctus, facilisis ornare odio. Aenean tempor ultrices magna non pharetra. Curabitur vulputate nec est aliquet suscipit. Etiam ipsum sapien, dictum quis tristique vel, pretium at elit.&lt;/p&gt;
+&lt;p&gt;That about wraps it up for Nashville Demo Day January 2015. Thanks to John Wark for putting it together and to everyone who made it happen.&lt;/p&gt;
 </description>
       </item>
     
