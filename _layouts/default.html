@@ -12,6 +12,12 @@
            style="background-image: url({{site.baseurl}}/public/images/bryan-profile.jpg);"></a>
         </div>
         {% include navigation.html %}
+      </header>
+
+      {{ content }}
+
+      <footer>
+        <hr>
         <div class="col span_12 center" style="font-size: 30px;">
           {% if site.data.brume.github %}
             <a type="button" class="navbar-toggle nav-link" style="padding-right: 20px" href="http://github.com/{{ site.data.brume.github }}">
@@ -29,11 +35,6 @@
             </a>
           {% endif %}
         </div>
-      </header>
-
-      {{ content }}
-
-      <footer>
         <p>
         &copy 2015 | Bryan Finlayson | bryanfinlayson.com
         </p>

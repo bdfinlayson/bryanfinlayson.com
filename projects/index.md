@@ -6,6 +6,28 @@ The projects below are a sample of my professional work as an apprentice softwar
 
 * * *
 
+
+![Brinsk CMS](../public/images/brinsk_cms.jpg "Brinsk CMS screen shot")
+Brinsk CMS
+--------------
+* View source code on [Github](https://github.com/bdfinlayson/brinsk_cms/ "Brinsk CMS")
+* Take a [test drive](https://brinsk.herokuapp.com/users/sign_in)
+* Log in with: demo@demo.com, demo1234
+
+Brinsk is a contact management system written in Ruby and Rails as my
+final capstone project at Nashville Software School. It's features
+include:
+
+- Full text search
+- Google Maps and geolocation
+- Gravatar
+- Calendar management
+- Email via ActiveMailer
+- Task management
+- Project management
+- Notes (for contacts and projects)
+- and much more...
+
 ![504-Anecdotals](../public/images/504s-v2.png "504-Anecdotals Screen Shot")
 504-Anecdotals
 --------------
